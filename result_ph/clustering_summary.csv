@@ -1,0 +1,6 @@
+Dataset,Points_N,Dimension_D,Predicted_Clusters,Merge_Accuracy,Split_Accuracy,ARI,NMI,Exec_Time_Sec
+Iris,150,4,3,57.33%,90.67%,0.7592,0.8057,0.062
+2d-4c-no9.arff,876,1,4,37.67%,86.87%,0.6911,0.8113,7.788
+2d-4c-no9.arff,876,2,4,87.10%,98.63%,0.9740,0.9629,8.968
+2d-4c-no9.arff,876,2,4,87.10%,98.63%,0.9740,0.9629,10.093
+Iris,150,4,3,57.33%,90.67%,0.7592,0.8057,0.065
